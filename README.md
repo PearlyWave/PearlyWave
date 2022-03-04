@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <!--   <img title="Microsoft SQL Server" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50px"> -->
 <!--   <img title="RabbitMq" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="80px" height="30px" style="border: 1px solid white">
   <img title="Kafka" src="https://pbs.twimg.com/profile_images/781633389577195521/kazUJooF_400x400.jpg" width="40px" height="50px" style="border: 1px solid white">
-<!--   <img title="MongoDB" src="https://logo.letskhabar.com/img?tool=mongodb" width="50px"> --> -->
+
 </div>
 
 <!-- ### Other Stuffs -->
