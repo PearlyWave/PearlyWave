@@ -32,17 +32,7 @@ You can click the Preview link to take a look at your changes.
 <!--   <img title="MongoDB" src="https://logo.letskhabar.com/img?tool=mongodb" width="50px"> --> -->
 </div>
 
-<!-- ### CI/CD and DevOps
-<div>
-<img title="Jenkins" src="https://logo.letskhabar.com/img?tool=jenkins" width="50px">
-<img title="Azure" src="https://pbs.twimg.com/profile_images/1268207800313774080/KF9pXfXU_400x400.jpg" width="50px" height="50px" style="border: 1px solid white">
-</div> -->
-<!-- ### Performance and Monitoring Tools -->
-<!-- 
-### Other Stuffs
-<div>
-  <img title="Postman" src="https://pbs.twimg.com/profile_images/1420733347131756549/cNnhvGE9_400x400.jpg" width="50px" height="40px" style="border: 1px solid white">
-<!--   <img title="Sonarqube" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="70px" height="40px" style="border: 1px solid white"> -->
-</div> -->
+<!-- ### Other Stuffs -->
+
 
 <!-- inspired by https://github.com/dhananjay12/dhananjay12 -->
