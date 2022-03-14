@@ -12,9 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Tech Stack
 ### Languages
 <div>
-  <img title="Java" src="https://logo.letskhabar.com/img?tool=java" width="50px"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img title="Python" src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="80px">
 </div>
 
 ### Frameworks
