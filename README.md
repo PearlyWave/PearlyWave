@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
-![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 
 ### Frameworks
 <div>
