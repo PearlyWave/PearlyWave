@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 - ✍ In my free time, I wrote blogs on [CSDN](https://blog.csdn.net/LonelyObserver) and my [site](https://ericji.net/)
 # Tech Stack
 ### Languages
-[![My Languages](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 ### Frameworks
-[![My Frameworks](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
 
 ### Databases and Events Streaming
-[![My Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Databases](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
 <!-- ### Other Stuffs -->
 
