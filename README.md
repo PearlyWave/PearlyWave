@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning and using Spring Cloud
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
-- ✍ In my free time, I wrote blogs on [CSDN](https://blog.csdn.net/LonelyObserver) and my [site](https://ericji.net/)
+- ✍ In my free time, I wrote blogs on [CSDN](https://blog.csdn.net/LonelyObserver) and my [site]([https://ericji.net/](https://ericji.hashnode.dev/))
 # Tech Stack
 ### Languages
 [![My Languages](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
