@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 - ✍ In my free time, I wrote blogs on my [blog](https://ericji.hashnode.dev/) and [CSDN](https://blog.csdn.net/LonelyObserver)(old posts).
 # Tech Stack
 ### Languages
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) 
+[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
 
 ### Frameworks
 [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
