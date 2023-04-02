@@ -3,7 +3,7 @@ PearlyWave/PearlyWave is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # About Me
-- 👋 Hi, I’m Eric
+- 👋 Hi, I’m Eric. You can find more infomation about me on my [_about_me_ ](https://ericji.hashnode.dev/about-me)page.
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning and using Spring Cloud
 <!-- - 💞️ I’m looking to collaborate on ... -->
